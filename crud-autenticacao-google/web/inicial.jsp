@@ -34,7 +34,7 @@
         <% } %>
 
 
-
+        <h3>Pessoas</h3>
         <ul>
             <li>
                 <a href="pessoa">Listar</a>
@@ -45,6 +45,16 @@
         </ul>
 
         <hr>
+        
+        <h3>Companias</h3>
+        <ul>
+            <li>
+                <a href="compania?page=0">Listar</a>
+            </li>
+            <li>
+                <a href="compania?op=f">Inserir</a>
+            </li>
+        </ul>
         
 
         
