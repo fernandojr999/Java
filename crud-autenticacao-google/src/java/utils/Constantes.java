@@ -10,5 +10,5 @@ package utils;
  */
 public class Constantes {
     public static String URL_BANCO = "jdbc:sqlite:C:/Users/sankhya/Desktop/Bio/trabalho/Java/crud-autenticacao-google/bd/companies_1000.db";
-    public static int REGISTROS_POR_PAGINAS = 100;
+    public static int REGISTROS_POR_PAGINAS = 50;
 }
